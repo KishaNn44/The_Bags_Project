@@ -1,0 +1,1 @@
+THIS FILE CONSISTS OF THE ENTIRE ARCHITECTURE: DETAILED Workflow of the Project we're Building.
